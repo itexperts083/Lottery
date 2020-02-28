@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/quiniela/*"
+  to = "/quiniela/index.html"
+  status = 200
+  force = false
